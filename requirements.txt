@@ -1,0 +1,6 @@
+autoenv # runs .env on `cd` or `source`
+flask
+psycopg2 # A Python adapter for Postgres.
+flask-sqlalchemy # A Flask extension that provides support for SQLAlchem
+flask-migrate # A Flask extension that provides support for SQLAlchem
+flask-API
